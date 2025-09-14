@@ -1,2 +1,2 @@
 # RustScreen
-RustScreen is a dedicated operating system designed solely as a "Monitor," built with Rust.
+RustScreen: A minimalist Rust-based OS that transforms old laptops into dedicated external monitors.
