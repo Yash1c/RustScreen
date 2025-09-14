@@ -1,2 +1,2 @@
 # RustScreen
-RustScreen: A minimalist Rust-based OS that transforms old laptops into dedicated external monitors.
+RustScreen: Your old laptop, reborn as a monitor. This lightweight Rust OS makes screen sharing easy.
