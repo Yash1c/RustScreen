@@ -21,8 +21,11 @@ cd RustScreen
 2. Build the bootable ISO (if not already provided):
 
 ```bash
+# Update your system firstly
+sudo apt update
+
 # Make sure grub-mkrescue and xorriso are installed
-sudo apt install grub-mkrescue xorriso
+sudo apt install xorriso grub-mkrescue
 grub-mkrescue -o RustScreen.iso iso-root/
 ```
 
